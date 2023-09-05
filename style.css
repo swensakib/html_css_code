@@ -1,0 +1,9 @@
+.firstdiv{
+  background-color: aquamarine;
+  width: 30%;
+  height: 200px;
+  border: 3px solid yellow;
+  float: left;
+  margin-right: 20px;
+  padding: 7px;
+}
